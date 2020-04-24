@@ -1,2 +1,2 @@
 # get_next_line
-The function displays each line of a file, for every buffer_size.
+A 42 function that displays each line of a file.
